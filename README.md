@@ -4,9 +4,9 @@ IT:U Interdisciplinary Transformation University · MSc Interdisciplinary Comput
 
 ---
 
-This repository contains a practitioner playbook for delegating work to agentic AI coding tools — Claude Code, Cursor, Codex, and similar. It covers how to brief an agent, how to structure tasks so they stay on track, how to verify output you didn't write, and how to use multiple models together.
+This repository contains a practitioner playbook for delegating work to agentic AI coding tools — Claude Code, Cursor, Codex, Opencode, and similar. It covers how to brief an agent, how to structure tasks so they stay on track, how to verify output you didn't write, and how to use multiple models together.
 
-**Important caveat:** the practices here were distilled from interviews with people who use agents regularly in their work. They are practitioner heuristics, not empirically validated rules. This playbook has not been measured against other skill sets or approaches to assess whether following it actually improves outcomes. Treat it as a tested starting point, not a proven methodology — try the guidance, keep what holds up, and revise what doesn't.
+**Important caveat:** the practices here were distilled from interviews with people who use agents regularly in their work. They are practitioner heuristics, not empirically validated rules. This playbook has not been measured against other skill sets or approaches to assess whether following it actually improves outcomes. Treat it as a starting point, not a proven methodology — try the guidance, keep what holds up, and revise what doesn't.
 
 ---
 
